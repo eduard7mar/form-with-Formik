@@ -33,8 +33,6 @@ Run the development server:
 ```bash
 npm start
 
-## Usage
-
 Visit [http://localhost:3000](http://localhost:3000) in your browser to access the form.
 
 ## Features
